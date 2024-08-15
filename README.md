@@ -18,3 +18,4 @@ dan menemukan responden yang sesuai dengan kriteria penelitian. Efisioner juga m
 ![alt text](https://raw.githubusercontent.com/dessyfitriaya/efisioner/main/assets/screencapture-localhost-efisioner-kuesioner-kuesioner-hasil-php-2023-07-10-13_07_21.png)
 
 ## Profil
+![alt text](https://raw.githubusercontent.com/dessyfitriaya/efisioner/main/assets/screencapture-localhost-efisioner-profil-profil-edit-php-2023-07-10-12_33_57.png)
